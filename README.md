@@ -1,2 +1,2 @@
 # ECMAScript
-Implementando lo aprendido en el curso de ecmascript6
+Implementando lo aprendido en el curso de ecmascript
